@@ -1,5 +1,12 @@
 ---
-title: "Welcome to my blog"
+title: "Luke blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+My Brag sheet-
+
+I work at FedEx
+
+I bench 250lbs
+
+I squat 315lbs
+
